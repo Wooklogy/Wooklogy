@@ -1,16 +1,33 @@
-### Hi there 👋
+# <div> MY STACK ⭐</div>
 
-<!--
-**Wooklogy/Wooklogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💡used as the main💡**
 
-Here are some ideas to get you started:
+ <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+ 
+**🔧 blog(velog) 🔧 **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[개발 블로그](https://velog.io/@artlogy)
+
+# Portfolio
+
+### WEB
+- [Atelier](https://youtu.be/oAT4Or5_nkk/) - JS(Jquery) | Express | Maria DB
+- [KorBit](https://youtu.be/2MIXWtGgD78/) - React | Djnago | Oracle DB
+### GAME
+- [TETRIS](https://youtu.be/MSjUIrSQuc8/) - C | CONSOL
+- [OWLBOY](https://youtu.be/dcJZMbE1xGY/) - C++ | WINAPI | 2D
+### OTHER
+
+# Contact me
+
+<img src="https://img.shields.io/badge/KAKAO-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
+
+ ```sh
+janguk0815
+```
+
+📞
+ ```sh
+010-8717-9852
+```
