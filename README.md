@@ -19,6 +19,8 @@
 - [OWLBOY](https://youtu.be/dcJZMbE1xGY/) - C++ | WINAPI | 2D
 ### OTHER
 
+[제작중인 블로그](https://wooklogy-github-io-blog-9rd2lid27-wooklogy.vercel.app/) - NextJS
+
 # Contact me
 
 <img src="https://img.shields.io/badge/KAKAO-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
